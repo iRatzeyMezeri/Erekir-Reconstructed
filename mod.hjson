@@ -1,23 +1,16 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
 
-#the internal name of your mod
-name: "example-java-mod"
+displayName: "Erekir Reconstructed"
 
-#your name
-author: "You"
+name: "example-reconstruct"
 
-#the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+author: "InxieRatZey"
 
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+main: "erekir-reconstruct.ErekirReconstructMod"
 
-#the mod version
+description: "Adds more stuff to erekir"
+
 version: 1.0
 
-#the minimum game build required to run this mod
 minGameVersion: 145
 
-#this is a java mod
 java: true
